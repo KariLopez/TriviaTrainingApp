@@ -38,6 +38,7 @@ Click Run All
 
 ## Additional Features
 * Method to add more questions extending Question Class 
+* Alternate order of questions presented while not repeating questions 
 
 
 ## Known issues
